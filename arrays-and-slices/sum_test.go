@@ -1,7 +1,9 @@
-package main
+package arrays_and_slices
 
-import "reflect"
-import "testing"
+import (
+	"reflect"
+	"testing"
+)
 
 func TestSum(t *testing.T) {
 	t.Run("collection of any size", func(t *testing.T) {

@@ -1,4 +1,4 @@
-package main
+package structs_methods_and_interfaces
 
 import "math"
 
